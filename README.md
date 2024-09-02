@@ -1,28 +1,19 @@
 # CS4990A2
 <br>
 <br>
-1) Problem Identification
-The real-world problem is to find out what influences student performances in exams, which is vital information that all college students should know. The target variable is exam scores and the indepndent variables that can posibiliy influence the target variable are the following:
+1) Problem Identification:
+<br>The real-world problem is to find out what influences student performance in exams, which is vital information that all college students should know. The target variable is exam scores and the independent variables that can possibility influence the target variable are the following:
 <br>
-* Hours_Studied
 <br>
-* Attendance
-<br>
-* Sleep_Hours
-<br>
-* Previous_Scores
-<br>
-* Motivation_Level
-<br>
-* Tutoring_Sessions
-<br>
-* Teacher_Quality
-<br>
-* Physical_Activity
-<br>
-* Learning_Disabilities
-<br>
-* Distance_from_Home
-<br>
-* Gender
-<br>
+<ul>
+<li>Hours Studied</li>
+<li>Attendance</li>
+<li>Sleep Hours</li>
+<li>Previous Scores</li>
+<li>Motivation Level</li>
+<li>Teacher Quality</li>
+<li>Physical Activity</li>
+<li>Learning Disabilities</li>
+<li>Distance from Home</li>
+<li>Gender</li>
+</ul>
